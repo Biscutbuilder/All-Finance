@@ -21,7 +21,8 @@ To use the website, just open the link above :)
 <img width="1348" height="611" alt="image" src="https://github.com/user-attachments/assets/801c2b1e-9ca6-4140-9df4-0ca0fb77485a" />
 <img width="754" height="500" alt="image" src="https://github.com/user-attachments/assets/01a5826f-82d2-4b14-8513-1259ff69bd3c" />
 
-
+## Why?
+Most finance websites just display one thing, It can get out of hand really quickly when trying to find the value of different types of things. This solves all of that my by having it all in one easy to use webpage
   
 
 ## How it works
